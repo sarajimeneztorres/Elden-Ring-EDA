@@ -2,7 +2,7 @@
 
 Este proyecto es un Análisis Exploratorio de Datos (EDA) que investiga el comportamiento y la retención de los jugadores de *Elden Ring* a través de reseñas reales extraídas de la API pública de Steam.
 
-## 🚀 Hallazgo Principal:
+## 🚀 Hallazgo Principal
 
 ![Gráfico comparativo de la retención de jugadores](gráfico_resultado.png)
 
